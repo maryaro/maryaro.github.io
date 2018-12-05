@@ -7,9 +7,9 @@ title: Mary Aronne's Portolio
 
 ### Project 1 
 
-![It's Fine Alt Text](project1_bamap/p1_teaser.png)
+![It's Fine Alt Text](project_1/map_sc_final.PNG)
 
-[See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
+[See more details here.](https://maryaro.github.io/project1_bamap/project1.html)
 
 This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum et auctor. Pellentesque sollicitudin aliquet quam, non vulputate mi tincidunt a. Quisque ultricies lectus mattis leo pharetra fringilla. 
 
