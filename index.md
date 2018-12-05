@@ -1,5 +1,5 @@
 ---
-title: Dillon Mahmoudi's Example Portfolio
+title: Mary Aronne's Portolio
 ---
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
