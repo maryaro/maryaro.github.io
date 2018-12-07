@@ -65,4 +65,4 @@ Additional steps:
 
 #### Results:
 
-![gif](http://maryaro.github.io/mt_winans.gif "map")
+![gif](http://maryaro.github.io/projec_2/mt_winans.gif "map")
