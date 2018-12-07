@@ -7,7 +7,7 @@ title: Mary Aronne's Portolio
 
 ### Project 1 
 
-![It's Fine Alt Text](project_1/map_sc_final.PNG)
+![It's Fine Alt Text](project_1/teaser.JPG)
 
 [See more details here.](https://maryaro.github.io/project_1/project1.html)
 
