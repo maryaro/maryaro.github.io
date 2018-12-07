@@ -46,7 +46,7 @@ and mean of `year_classify` calculated
   - 2.5D map and graduated classification
 
 #### Results:
-![Map](https://maryaro.github.io/map_sc_final.PNG "Map")
+![Map](https://project_1/map_sc_final.PNG "Map")
 
-![3d](https://maryaro.github.io/3d_sc.PNG "3D Map")
+![3d](https://project_1/3d_sc.PNG "3D Map")
 
