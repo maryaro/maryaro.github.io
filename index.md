@@ -26,7 +26,7 @@ This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum
 
 ![It's Fine Alt Text](https://maryaro.github.io/project_2/teaser_2.JPG)
 
-[See more details here.](https://maryaro.github.io/project_2/project_2.html)
+[See more details here.](https://maryaro.github.io/project_2/project2.html)
 
 The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
 
