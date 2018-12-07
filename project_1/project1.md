@@ -35,7 +35,7 @@ with most federally funded housing still located in the city
 - Real Property Dataset converted to a SpatialLite database
 - SQL query to create `year_classify` on a scale of 1-9 (assigning `NULL` to 0)
 
-![query](https://maryaro.github.io/query_sc.PNG "Query")
+![query](https://maryaro.github.io/project_1/query_sc.PNG "Query")
 - Convert `year_classify` to `int` instead of `string`
 - Create centroids for the selected neighborhoods
 - Create hexagonal grid over study area
@@ -46,7 +46,7 @@ and mean of `year_classify` calculated
   - 2.5D map and graduated classification
 
 #### Results:
-![Map](https://maryaro.github.io/project_1/balt_3.PNG "Map")
+![Map](https://maryaro.github.io/project_1/map_sc_final.PNG "Map")
 
 ![3d](https://maryaro.github.io/project_1/3d_sc.PNG "3D Map")
 
