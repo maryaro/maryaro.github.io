@@ -11,12 +11,12 @@ title: Mary Aronne's Portolio
 
 [See more details here.](https://maryaro.github.io/project_1/project1.html)
 
-This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum et auctor. Pellentesque sollicitudin aliquet quam, non vulputate mi tincidunt a. Quisque ultricies lectus mattis leo pharetra fringilla. 
+The purpose of this project is to show the average year built of residential housing in 4 Baltimore neighborhoods based on historical events such as the construction of the B&O railroad and ban on lead paint.
 
-<small>__Tools__: QGIS, Interpolation, Photoshop</small>
+<small>__Tools__: QGIS
 
 <small>__Data__: 
-[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
+[Real Property Dataset from the City of Baltimore Open GIS Data Site](http://gis-baltimore.opendata.arcgis.com/datasets/b41551f53345445fa05b554cd77b3732_0), </small>
 
 </div>
 
@@ -28,18 +28,15 @@ This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum
 
 [See more details here.](https://maryaro.github.io/project_2/project2.html)
 
-The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
+The purpose of this project is to show a time lapse of the construction of residential buildings in the Mount Winans neighborhood of Baltimore
 
 ```html
 <small>Text to *make* small.</small>
 ```
 
-Notice I used markdown inside the html tags. 
+<small>__Tools__: QGIS, Photoshop
 
-<small>__Tools__: QGIS, R</small>
-
-<small>__Data__:
-[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
+<small>__Data__:[Real Property Dataset from the City of Baltimore Open GIS Data Site](http://gis-baltimore.opendata.arcgis.com/datasets/b41551f53345445fa05b554cd77b3732_0), </small>
 
 </div>
 </div>
