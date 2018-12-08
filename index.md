@@ -30,9 +30,6 @@ The purpose of this project is to show the average year built of residential hou
 
 The purpose of this project is to show a time lapse of the construction of residential buildings in the Mount Winans neighborhood of Baltimore
 
-```html
-<small>Text to *make* small.</small>
-```
 
 <small>__Tools__: QGIS, Photoshop
 
