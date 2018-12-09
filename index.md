@@ -43,7 +43,7 @@ The purpose of this project is to show a time lapse of the construction of resid
 
 ### Project 3
 
-![It's Fine Alt Text](lab/Screen Shot 2018-12-08 at 7.13.05 PM.png)
+![It's Fine Alt Text](lab/lab2_teaser.png)
 
 [See more details here.](https://maryaro.github.io/lab/aronne_lab2.md.html)
 
