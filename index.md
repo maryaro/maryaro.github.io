@@ -43,16 +43,16 @@ The purpose of this project is to show a time lapse of the construction of resid
 
 ### Project 3
 
-![It's Fine Alt Text](lab/lab2_teaser.png)
+![It's Fine Alt Text](https://maryaro.github.io/lab/lab2_teaser.png)
 
 [See more details here.](https://maryaro.github.io/lab/aronne_lab2.md.html)
 
-This project uses a 350px square image for the teaser image, but inside the square image, I used a circle to highlight a certain area. Pellentesque eget mauris vel mi tristique finibus vitae quis massa. Mauris vulputate, nulla vel tincidunt interdum, sem mauris scelerisque neque, suscipit pellentesque felis augue a erat. 
+This project demonstrates different QGIS techniques, including a 3D relief map, heat map, and hexagonal map.
 
-<small>__Tools__: QGIS, Interpolation, Photoshop
+<small>__Tools__: QGIS
 
 <small>__Data__: 
-[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
+[3D QGIS Tutorial Website](https://www.lutraconsulting.co.uk/blog/2018/03/01/working-with-qgis-3d-part-1/), Learning QGIS Chapter 4 </small>
 
 </div>
 
