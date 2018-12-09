@@ -6,9 +6,9 @@
 The purpose of this project is to demonstrate different QGIS techniques, including a 3D relief map, heat map, and hexagonal map.
 
 
-![heatmap](https://maryaro.github.io/lab/alaska_heatmap.PNG "Heatmap")
+![heatmap](https://maryaro.github.io/lab/alaska_heatmap.png "Heatmap")
 
-![hex map](https://maryaro.github.io/lab/alaska_heatmap.PNG "Hex map")
+![hex map](https://maryaro.github.io/lab/alaska_hexmap.png "Hex map")
 
 ![3D](https://maryaro.github.io/lab/part2_3d.PNG "Query")
 
