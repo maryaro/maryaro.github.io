@@ -57,3 +57,19 @@ This project demonstrates different QGIS techniques, including a 3D relief map, 
 </div>
 
 <div style="display: table-cell; width:370px" markdown="1">
+
+### Project 4
+
+![It's Fine Alt Text](project_1/teaser.JPG)
+
+[See more details here.](https://maryaro.github.io/project_1/project1.html)
+to be added later!
+
+<small>__Tools__: QGIS
+
+<small>__Data__: 
+[Real Property Dataset from the City of Baltimore Open GIS Data Site](http://gis-baltimore.opendata.arcgis.com/datasets/b41551f53345445fa05b554cd77b3732_0), </small>
+
+</div>
+
+<div style="display: table-cell; width:370px" markdown="1">
