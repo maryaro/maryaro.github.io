@@ -49,3 +49,6 @@ of space weather.
 
 Hexagonal Map:
 ![hex 1](https://maryaro.github.io/final_project/nz_hex_1.JPG "hex 1")
+
+Gif:
+![gif](https://maryaro.github.io/final_project/NZ_2001.gif "gif")
