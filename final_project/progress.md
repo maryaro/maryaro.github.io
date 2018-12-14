@@ -43,6 +43,10 @@ different sample imagery of the Sun throughout the solar cycle. This would help 
 of space weather.
 
 #### Progress
+Some 381 Data Analysis:
+![graph](https://maryaro.github.io/final_project/nz_chart.png "NZ Excel")
+
+
 3D Map:
 ![3d 1](https://maryaro.github.io/final_project/3d_zoom_1.PNG "3d 1")
 ![3d 1](https://maryaro.github.io/final_project/3d_zoom_2.PNG "3d 2")
