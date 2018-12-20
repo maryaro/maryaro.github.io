@@ -60,15 +60,16 @@ This project demonstrates different QGIS techniques, including a 3D relief map, 
 
 ### Project 4
 
-![It's Fine Alt Text](project_1/teaser.JPG)
+![It's Fine Alt Text](final_project/Capture.PNG)
 
-[See more details here.](https://maryaro.github.io/project_1/project1.html)
+[See more details here.](https://maryaro.github.io/final_project/project.md)
 to be added later!
 
-<small>__Tools__: QGIS
+<small>__Tools__: QGIS, GeoDa
 
 <small>__Data__: 
-[Real Property Dataset from the City of Baltimore Open GIS Data Site](http://gis-baltimore.opendata.arcgis.com/datasets/b41551f53345445fa05b554cd77b3732_0), </small>
+- New Zealand Ministry for the Environment and Environmental Planning
+- Land Information New Zealand
 
 </div>
 
