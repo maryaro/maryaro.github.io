@@ -62,8 +62,7 @@ This project demonstrates different QGIS techniques, including a 3D relief map, 
 
 ![It's Fine Alt Text](final_project/Capture.PNG)
 
-[See more details here.](https://maryaro.github.io/final_project/project.md)
-to be added later!
+[See more details here.](https://maryaro.github.io/final_project/project.html)
 
 <small>__Tools__: QGIS, GeoDa
 
