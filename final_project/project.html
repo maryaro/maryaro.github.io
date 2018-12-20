@@ -1,0 +1,53 @@
+## Final Project
+### Mary Aronne
+
+#### Purpose
+The purpose of this project is to use different QGIS techniques to study elevation and rainfall in New Zealand. New Zealand has an interesting, 
+mountainous topography and straddles the Australian and Pacific tectonic plates. The South Island has the Southern Alps, and the 
+North Island is less mountainous but has some volcanoes. This project uses a 3D map to see elevation, a hexagonal map to better visualize average yearly
+rainfall, and a statistical analysis of elevation and rainfall in GeoDa.
+
+This project is slightly adapted from the original proposal, as it was dependent on the results of the GES 381: remote sensing project I did,
+which had interesting but unexpected results, and this new focus is more promising for the purposes of GES 486 and using QGIS.
+
+#### Hexagonal Rainfall Map:
+![hex map](https://maryaro.github.io/final_project/rain_map.png "Hex Map")
+
+- Data source: New Zealand Ministry for the Environment and Environmental Planning
+
+- In QGIS, A hex grid was created over the extent of the layer, and a join attributes by location was used to add rainfall (and elevation, for the 
+GeoDa analysis). The symbology was changed to a gradient that showed the rainfall amounts.
+
+- This rainfall map shows more rainfall on the North Island than the South Island, and on the South Island there is more rainfall
+in the far south than the northern part of the island.
+
+#### 3D Elevation Map:
+
+![3d 2](https://maryaro.github.io/final_project/3d_zoom_2.PNG "3d 2")
+![3d 1](https://maryaro.github.io/final_project/3d_zoom_1.PNG "3d 1")
+
+- Data Source: Land Information New Zealand
+
+- The first 3D map focuses the North Island, which you can see has lower elevations than the South Island. There is only one peak that 
+sticks out in the center, which is the Ruapehu volcano, which recently erupted in 1996.
+
+- The first 3D map shows a view of the South Island, which prominently features the Southern Alps. The highest peak is Aoraki/Mount Cook
+at 3,724 meters. It can be seen as the bright yellow peak near the center and to the west. It is surrounded by many other high peaks.
+
+#### GeoDa Statistical Analysis:
+
+- This is a bivariate Moran's I analysis in GeoDa, featuring a significance map, cluster map, and scatter plot for
+rainfall and elevation.
+
+![significance](https://maryaro.github.io/final_project/significance.png "significance")
+
+- The bivariate Moran's I significance map has a grouping in the southeast of the South Island that has a p = .001. 
+Along the western coastline of the South Island, there is p = 0.05 along the coast, but this may not yet be at the point where the
+p values point towards anything interesting.
+
+![cluster](https://maryaro.github.io/final_project/cluster.png "cluster")
+
+- The bivariate Moran's I cluster map shows low-low in the southeast of the South Island, corresponding to the area with the p = .001 in the significance map above, but there are also high-high values across the north central part of the North Island. Outlier areas are found along the western half of the South Island's coast.
+
+![scatter](https://maryaro.github.io/final_project/scatter.png "scatter")
+- This plot has a Moran's I of 0.22. It is near 0, and has a slight positive correlation.
