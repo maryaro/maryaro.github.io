@@ -26,6 +26,8 @@ in the far south than the northern part of the island.
 ![3d 2](https://maryaro.github.io/final_project/3d_zoom_2.PNG "3d 2")
 ![3d 1](https://maryaro.github.io/final_project/3d_zoom_1.PNG "3d 1")
 
+- Data Source: Land Information New Zealand
+
 - The first 3D map focuses the North Island, which you can see has lower elevations than the South Island. There is only one peak that 
 sticks out in the center, which is the Ruapehu volcano, which recently erupted in 1996.
 
@@ -34,6 +36,18 @@ at 3,724 meters. It can be seen as the bright yellow peak near the center and to
 
 #### GeoDa Statistical Analysis:
 
+- This is a bivariate Moran's I analysis in GeoDa, featuring a significance map, cluster map, and scatter plot for
+rainfall and elevation.
+
 ![significance](https://maryaro.github.io/final_project/significance.png "significance")
+
+- The bivariate Moran's I significance map has a grouping in the southeast of the South Island that has a p = .001. 
+Along the western coastline of the South Island, there is p = 0.05 along the coast, but this may not yet be at the point where the
+p values point towards anything interesting.
+
 ![cluster](https://maryaro.github.io/final_project/cluster.png "cluster")
+
+- The bivariate Moran's I cluster map shows low-low in the southeast of the South Island, corresponding to the area with the p = .001 in the significance map above, but there are also high-high values across the north central part of the North Island. Outlier areas are found along the western half of the South Island's coast.
+
 ![scatter](https://maryaro.github.io/final_project/scatter.png "scatter")
+- This plot has a Moran's I of 0.22. It is near 0, and has a slight positive correlation.
